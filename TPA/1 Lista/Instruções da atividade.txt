@@ -1,0 +1,10 @@
+1- Desenvolva um programa em python que converta de graus °F para °C
+2- Desenvolva um programa em python que calcule o salário de um funcionário que mostre seu novo
+salário com 15% de aumento
+3- Desenvolva um programa em python que leia o preço de um produto e mostre seu novo preço com
+7% de desconto
+4- Desenvolva um programa em python que leia quanto dinheiro uma pessoa tem na carteira e mostre
+quantos dólares ela pode comprar, seu programa deverá solicitar a cotação diária do dólar
+5- Desenvolva um programa em python que leia a largura altura de uma parede em metros, calcule
+sua área e a quantidade de tinta necessária para pinta-la, sabendo que cada litro de tinta pinta
+uma área de 2.3m²
