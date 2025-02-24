@@ -1,0 +1,4 @@
+Criar uma HP e-commerce de uma loja para vender 5 produtos, cada produto terá: 
+Nome da empresa.  
+Especificações. 
+Preços e condições de pagamento.
