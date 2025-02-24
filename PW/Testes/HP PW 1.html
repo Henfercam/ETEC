@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>titulo</title>
+    </head>
+    <body bgcolor="floralwhite">
+        <iframe src="ordem.jpg" title="description" height="100" width="100"></iframe>
+        <canvas id="myCanvas" width="200" height="100">
+            Your browser does not support the HTML canvas tag.</canvas>
+            
+            <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            // Create gradient
+            var grd = ctx.createLinearGradient(0,0,200,0);
+            grd.addColorStop(0,"red");
+            grd.addColorStop(1,"white");
+            // Fill with gradient
+            ctx.fillStyle = grd;
+            ctx.fillRect(10,10,150,80);
+            </script>
+            <br>
+            <br>
+            <br>
+            <img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
+        <br>
+        <img scr="ordem.jpg"> 
+        <h1 style="border:2px solid rgb(0, 0, 0);"><font color="maroon" face="serif">teste</font></h1>
+    </body>
+</html>
